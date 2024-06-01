@@ -1,0 +1,39 @@
+.card{
+    background-color: lightblue;
+    width: 350px;
+    font-family: "poppins";
+    padding:40px;
+    display: inline-block;
+    margin: auto;
+
+
+}
+.parent{
+    margin: 50px;
+   background-color: red;
+    width: fit-content;
+}
+.cardred{
+    background-color: lightcoral
+    ;
+}
+
+.cardgreen{
+    background-color: aqua;
+    
+}
+
+.cardblue{
+    background-color: lightblue;
+    
+}
+
+#test{
+    background-image:url('https://img.freepik.com/premium-psd/poster-world-environment-day-with-green-leaves-it_719635-275.jpg?w=900') ;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
